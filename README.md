@@ -1,3 +1,5 @@
+![Screenshot_20211022-075002_Chrome](https://user-images.githubusercontent.com/67409054/138383053-513df739-7855-4b44-a2b1-6f6a4873352a.jpg)
+![Screenshot_20211022-074949_Chrome](https://user-images.githubusercontent.com/67409054/138383061-26c64961-5103-456a-a126-28142eceb184.jpg)
 # tiktactoe
 Simple game build in python!
 # Here is an Example how to play the game! :)
